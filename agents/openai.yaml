@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧广告导演"
+  short_description: "按指定时长策划带货故事和分镜，确认故事与画风后制作镜头"
+  default_prompt: "使用 $ad-drama-director 按我给的时长，先做文字故事和分镜。"
